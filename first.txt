@@ -1,3 +1,4 @@
 ぎｔの練習
 aaaaaa
 bbbbb
+git rm
